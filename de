@@ -1,0 +1,31 @@
+# This file is a combined blocklist for use with Pi-hole or similar systems.
+# Generated on: 2024-11-28
+
+# Begin blocklist entries
+
+0.0.0.0 auf1.tv
+0.0.0.0 disclose.tv
+0.0.0.0 journalistenwatch.com
+0.0.0.0 pi-news.net
+0.0.0.0 compact-online.de
+0.0.0.0 anonymousnews.ru
+0.0.0.0 uncut-news.ch
+0.0.0.0 wochenblick.at
+0.0.0.0 info-direkt.eu
+0.0.0.0 kenfm.de
+0.0.0.0 rtde.live
+0.0.0.0 nachdenkseiten.de
+0.0.0.0 epochtimes.de
+0.0.0.0 jungefreiheit.de
+0.0.0.0 tichyseinblick.de
+0.0.0.0 achgut.com
+0.0.0.0 reitschuster.de
+0.0.0.0 politikstube.com
+0.0.0.0 deutsche-wirtschafts-nachrichten.de
+0.0.0.0 mmnews.de
+0.0.0.0 kla.tv
+0.0.0.0 pravda-tv.com
+0.0.0.0 watergate.tv
+0.0.0.0 schluesselkindblog.com
+
+# End of blocklist

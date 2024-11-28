@@ -1,0 +1,44 @@
+# This file is a combined blocklist for use with Pi-hole or similar systems.
+# Generated on: 2024-11-28
+
+# Begin blocklist entries
+
+0.0.0.0 70news.wordpress.com
+0.0.0.0 8shit.net
+0.0.0.0 americannews.com
+0.0.0.0 beforeitsnews.com
+0.0.0.0 bigamericannews.com
+0.0.0.0 christiantimesnewspaper.com
+0.0.0.0 civictribune.com
+0.0.0.0 clickhole.com
+0.0.0.0 conservativedailypost.com
+0.0.0.0 dailybuzzlive.com
+0.0.0.0 dailycurrant.com
+0.0.0.0 dailywire.com
+0.0.0.0 denverguardian.com
+0.0.0.0 drudgereport.com.co
+0.0.0.0 empireherald.com
+0.0.0.0 empirenews.net
+0.0.0.0 endingthefed.com
+0.0.0.0 globalresearch.ca
+0.0.0.0 huzlers.com
+0.0.0.0 info-wars.org
+0.0.0.0 infowars.com
+0.0.0.0 intellihub.com
+0.0.0.0 nationalreport.net
+0.0.0.0 naturalnews.com
+0.0.0.0 newsbiscuit.com
+0.0.0.0 newslo.com
+0.0.0.0 now8news.com
+0.0.0.0 nymeta.co
+0.0.0.0 politicalo.com
+0.0.0.0 react365.com
+0.0.0.0 rilenews.com
+0.0.0.0 thefreethoughtproject.com
+0.0.0.0 thelastlineofdefense.org
+0.0.0.0 theonion.com
+0.0.0.0 therealstrategy.com
+0.0.0.0 worldnewsdailyreport.com
+0.0.0.0 yournewswire.com
+
+# End of blocklist
